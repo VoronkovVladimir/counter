@@ -1,0 +1,20 @@
+.button {
+    margin: 10px;
+    padding: 5px;
+    background: cyan;
+    color: dimgray;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 70px;
+    height: 50px;
+}
+.buttonDisabled {
+    margin: 10px;
+    padding: 5px;
+    background: gray;
+    color: black;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 70px;
+    height: 50px;
+}

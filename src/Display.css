@@ -1,0 +1,16 @@
+.displayText {
+    font-size: 40px;
+}
+
+.displayTextRed {
+    font-size: 40px;
+    color: red;
+}
+.displayBox {
+    border: 2px solid cyan;
+    border-radius: 5%;
+    padding: 10px;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+}
